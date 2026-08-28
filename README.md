@@ -1,6 +1,6 @@
 Copyright © 2026 SyncX. Todos los derechos reservados.
 
-Por la presente se concede permiso a cualquier persona que obtenga una copia de este software ("SyncX") para ejecutar y utilizar la aplicación para uso personal.
+Por la presente se concede permiso a cualquier persona que obtenga una copia de este software SyncX para ejecutar y utilizar la aplicación para uso personal.
 
 QUEDA ESTRICTAMENTE PROHIBIDO:
 1. Modificar, alterar o crear obras derivadas basadas en el código fuente de este software.
